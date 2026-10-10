@@ -1,0 +1,108 @@
+silk/bwexpander.lo: silk/bwexpander.c config.h silk/SigProc_FIX.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/string.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/sys/cdefs.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/android/versioning.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/android/api-level.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/get_device_api_level_inlines.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/android/ndk-version.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/stddef.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/__stddef_ptrdiff_t.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/__stddef_size_t.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/__stddef_wchar_t.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/__stddef_null.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/__stddef_max_align_t.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/__stddef_offsetof.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/xlocale.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/strcasecmp.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/sys/types.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/stdint.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/stdint.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/wchar_limits.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/types.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/aarch64-linux-android/asm/types.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/asm-generic/types.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/asm-generic/int-ll64.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/aarch64-linux-android/asm/bitsperlong.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/asm-generic/bitsperlong.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/posix_types.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/stddef.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/compiler_types.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/compiler.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/aarch64-linux-android/asm/posix_types.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/asm-generic/posix_types.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/pthread_types.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/fortify/string.h \
+  silk/typedef.h include/opus_types.h include/opus_defines.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/float.h \
+  silk/resampler_structs.h silk/macros.h celt/arch.h celt/ecintrin.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/math.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/limits.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/limits.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/limits.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/posix_limits.h \
+  silk/arm/macros_arm64.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/arm_neon.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/arm_bf16.h \
+  /Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/arm_vector_types.h \
+  celt/cpu_support.h celt/arm/armcpu.h silk/arm/biquad_alt_arm.h \
+  silk/arm/LPC_inv_pred_gain_arm.h silk/Inlines.h silk/MacroCount.h \
+  silk/MacroDebug.h
+config.h:
+silk/SigProc_FIX.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/string.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/sys/cdefs.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/android/versioning.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/android/api-level.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/get_device_api_level_inlines.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/android/ndk-version.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/stddef.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/__stddef_ptrdiff_t.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/__stddef_size_t.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/__stddef_wchar_t.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/__stddef_null.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/__stddef_max_align_t.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/__stddef_offsetof.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/xlocale.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/strcasecmp.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/sys/types.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/stdint.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/stdint.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/wchar_limits.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/types.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/aarch64-linux-android/asm/types.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/asm-generic/types.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/asm-generic/int-ll64.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/aarch64-linux-android/asm/bitsperlong.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/asm-generic/bitsperlong.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/posix_types.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/stddef.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/compiler_types.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/compiler.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/aarch64-linux-android/asm/posix_types.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/asm-generic/posix_types.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/pthread_types.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/fortify/string.h:
+silk/typedef.h:
+include/opus_types.h:
+include/opus_defines.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/float.h:
+silk/resampler_structs.h:
+silk/macros.h:
+celt/arch.h:
+celt/ecintrin.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/math.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/limits.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/limits.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/limits.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/posix_limits.h:
+silk/arm/macros_arm64.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/arm_neon.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/arm_bf16.h:
+/Users/anathan/Documents/android-ndk-r28c/toolchains/llvm/prebuilt/darwin-x86_64/lib/clang/19/include/arm_vector_types.h:
+celt/cpu_support.h:
+celt/arm/armcpu.h:
+silk/arm/biquad_alt_arm.h:
+silk/arm/LPC_inv_pred_gain_arm.h:
+silk/Inlines.h:
+silk/MacroCount.h:
+silk/MacroDebug.h:
